@@ -1,2 +1,11 @@
-# Neynar - The easiest way to build on Farcaster
+<div align="center">
+
+## The easiest way to build on (Farcaster)[farcaster.xyz](https://farcaster.xyz)
+
+#### [neynar.com](https://neynar.com)
+
+</div>
+
+<a href="https://neynar.com"><img width="100%%" alt="Farcaster" src="https://raw.seadn.io/files/65e3205ee497c888378199cbf827454d.svg" /></a>
+
 
