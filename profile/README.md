@@ -1,6 +1,6 @@
 <div align="center">
 
-## The easiest way to build on (Farcaster)[farcaster.xyz](https://farcaster.xyz)
+## The easiest way to build on [Farcaster](https://farcaster.xyz)
 
 #### [neynar.com](https://neynar.com)
 
