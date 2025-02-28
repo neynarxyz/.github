@@ -1,6 +1,6 @@
 <div align="center">
 
-## [Farcaster](https://farcaster.xyz) for ambitious builders
+## Easiest way to build on Farcaster
 
 #### [neynar.com](https://neynar.com)
 
